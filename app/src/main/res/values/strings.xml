@@ -12,5 +12,7 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="bobert">bobert</string>
     <string name="bob">Bob</string>
-    <string name="show_bobert">Show Bobert</string>
+    <string name="next_activity">Next activity</string>
+    <string name="load">load</string>
+    <string name="input_page_number">Страница</string>
 </resources>
