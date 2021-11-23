@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sreda</string>
+    <string name="app_name">Список пользователей</string>
     <string name="open_list_button_name">Открыть список пользователей</string>
     <string name="load">Загрузить</string>
     <string name="input_page_number">Введите номер страницы</string>
