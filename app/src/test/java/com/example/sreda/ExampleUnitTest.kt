@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.sreda
 
 import org.junit.Test
 

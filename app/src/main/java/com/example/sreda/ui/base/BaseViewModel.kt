@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.base
+package com.example.sreda.ui.base
 
 import androidx.lifecycle.ViewModel
 
